@@ -1,0 +1,61 @@
+.title{
+    margin-top: 20px;
+    width: 619px;
+    height: 288px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 85px;
+    line-height: 85px;
+    color: #172B4D;
+    
+}
+
+.title-end{
+    padding-bottom: 8px;
+    border-bottom:solid 10px  #0052CC;  
+}
+
+.text{
+    margin-top: 40px;
+    width: 465px;
+    height: 131px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px;
+    color:#5B6B88;
+}
+.home-button{
+    height: 60px;
+    width: 230px;
+    border-radius: 8px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    margin-right: 20px;
+    
+}
+
+.text-more{
+    margin-top: 15px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 32px;
+    color: #5B6B88;
+}
+.text-more-link{
+    margin-left: 10px;
+    text-decoration: none;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 32px;
+    color: #0052CC;
+}
+.home-ico{
+    float: right;
+}

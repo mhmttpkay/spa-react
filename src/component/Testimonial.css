@@ -1,0 +1,100 @@
+.main-container{
+    margin-top:100px
+}
+.testimonial-row{
+    display: flex;  
+    justify-content: center;
+    align-items: center; 
+}
+.testimonial-subtitle{
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #5B6B88;
+}
+
+.testimonial-title{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    letter-spacing: -0.5px;
+    color: #5B6B88;
+}
+
+.testimonial-text{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #5B6B88;
+    width: 570px;
+    height: 96px;
+}
+
+.testimonial-slider{
+    height: 280px;
+    width: 680px;
+    border-radius: 10px;
+    background: white;
+    margin-bottom: 50px;
+   
+}
+
+.testimonial-slider-svg{
+    width: 340px;
+    height: 200px;
+}
+
+.slider-quotation-svg{
+    position: absolute;
+    top: 10px;
+    left: 275px;
+}
+
+.slider-text{
+    position: absolute;
+    top: 30px;
+    left: 340px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #5B6B88;
+
+}
+
+.slider-text-name{
+    position: absolute;
+    top: 140px;
+    left: 340px;   
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 32px;
+    letter-spacing: 0.15px;
+    color: #5B6B88;
+}
+
+.slider-text-name-job{
+    position: absolute;
+    top: 165px;
+    left: 340px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 0.25px;
+    color: #5B6B88;
+}

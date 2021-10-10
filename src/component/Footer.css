@@ -1,0 +1,93 @@
+.footer-row{
+    position: relative;
+    width: 100%;
+
+}
+.footer-title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    color: #345181;
+}
+.footer-text{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+}
+.svg-name{
+    
+    position: absolute;
+    left: 85px;
+    top: 60px;
+    
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #345181;    
+}
+.footer-svg{
+   
+    width: 51,83px;
+}
+.footer-adress{
+    margin-top: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+    width: 274px;
+    color: #5B6B88;
+}
+
+.footer-number{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    width: 274px;
+    color: #5B6B88;
+}
+
+.footer-mail{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    width: 274px;
+    color: #5B6B88;
+}
+.footer-ico-ctn{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+   
+}
+.footer-ico{
+    margin: 0 35px 0 10px;
+    color: #A2BADD;
+    
+}
+.footer-copyright{
+    display: flex;
+    justify-content: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.25px;
+    color: #5B6B88;
+}
+.footer-last-text{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.25px;
+    color: #5B6B88;
+}

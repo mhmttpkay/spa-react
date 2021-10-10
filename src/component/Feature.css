@@ -1,0 +1,82 @@
+.feature-container{
+    padding-top: 100px ;
+    padding-bottom:100px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#BDD7FE;
+    
+}
+.feature-col{
+    margin-top: 50px;
+}
+.feature-title{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -0.5px;
+    color: #172B4D;
+}
+
+.feature-text{
+    margin-top: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.15px;
+    color: #5B6B88;
+    width: 455px;
+    height: 127px;
+}
+
+.feature-button{
+    height: 60px;
+    width: 230px;
+    border-radius: 8px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    margin-right: 20px;
+    background: #0052CC;       
+}
+.feature-ico{
+    float: right;
+}
+.card{
+    width: 18rem;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    
+}
+.feature-svg{
+    height: 70px;
+    width: 70px;
+}
+.feature-card-body{
+    padding: 10px;
+    width: auto;
+    margin-bottom: 10px;
+   
+}
+.feature-card-title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 36px;
+    color: #000000;
+
+}
+.feature-card-text{
+   
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 26px;
+    color: #5B6B88;
+}

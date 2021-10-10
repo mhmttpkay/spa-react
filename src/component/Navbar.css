@@ -1,0 +1,39 @@
+.container{
+    margin-top: 15px;
+}
+.svg{
+    width:140px;
+    height:52px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.social{
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 10px;
+    color: #94A4C0;
+    font-size: 20px;
+    
+}
+.nav-item{
+    margin-right:10px ;
+    margin-top: 5px;
+    
+    
+}
+.nav-link{
+    color: #94A4C0;
+    
+}
+.navbar{
+    justify-content: center;
+    
+}
+.nav-text{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+}

@@ -1,0 +1,87 @@
+.team-container{
+    padding-top: 130px;
+    padding-bottom: 100px;
+    text-align: center;
+   
+}
+.team-subtitle{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #5B6B88;
+}
+.team-title{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    letter-spacing: -0.5px;
+    color: #5B6B88;
+}
+.team-text{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #5B6B88;
+    width: 570px;
+}
+.team-slider{
+    height: 280px;
+    border-radius: 10px;
+    background: white;
+    margin-bottom: 50px;
+    margin-left: 150px;
+}
+
+.team-slider-svg{
+    width: 340px;
+    height: 200px;
+    margin-left: 20px;
+}
+.team-slider-text{
+    position: absolute;
+    top: 50px;
+    left: 390px;
+    color: #5B6B88;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 44px;
+}
+.team-slider-text-name-job{
+    position: absolute;
+    top: 90px;
+    left: 390px;
+    color: #5B6B88;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.15px;
+}
+
+.team-social{
+    position: absolute;
+    top: 150px;
+    left: 390px;
+}
+.team-social-ico{
+    text-decoration: none;
+    margin: 20px;
+    color: #A2BADD;
+    height: 30px;
+    width: 30px;
+
+}

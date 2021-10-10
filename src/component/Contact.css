@@ -1,0 +1,162 @@
+.contact-form{
+    padding-top: 130px;
+    background-color: #F5F5F5;
+    text-align: center;
+}
+.contact-subcribe{
+    background: rgba(0, 82, 204, 0.2);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.from-title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 44px;
+    color: #42526E;
+}
+.from-text{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px;
+    color: #42526E;
+    margin-bottom: 30px;
+
+}
+.home-button{
+    height: 60px;
+    width: 230px;
+    border-radius: 8px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    margin-right: 20px;  
+}
+
+.form-button{
+    background: #0052CC;
+    border-radius: 8px;
+    height: 50px;
+    width: 378.8823547363281px;
+    margin-bottom: 30px;
+}
+
+.form-info{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 500;
+    display: flex;
+    align-items: flex-end;
+    color: #42526E;
+    margin-left: 140px;
+}
+
+.from-input{
+    background-color: #EAF1FD;
+    border-radius: 8px;
+    height: 49px;
+    width: 380px;
+    border-color:#EAF1FD ;
+    margin-bottom: 20px;
+    border-top: #EAF1FD;
+    border-left: #EAF1FD;
+}
+.from-input:focus { 
+    outline: none;
+ }
+.form-check{
+    background-color: #A2BADD;
+    opacity: 0.5;
+    border-radius: 4px;
+    margin-left: 140px;
+    height: 20px;
+    width: 20px;
+}
+
+.form-check-text{
+    position: absolute;
+    left: 180px;
+    top: 2583px;
+}
+
+.form-forgot{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    margin-right: 270px;
+    letter-spacing: 0.4px;
+    color: #42526E;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.form-signup{
+    margin-top: 15px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.4px;
+    color: #42526E;
+}
+.form-face{
+    margin-top: 30px;
+}
+
+.form-face-ico{
+    float: left;
+    margin-top: 5px;
+}
+
+.subcribe-subtitle{
+    width: 400px;
+    margin-left: 40px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #5B6B88;
+}
+.subcribe-title{
+    width: 360px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 80px;
+    letter-spacing: -1.5px;
+    color: #5B6B88;
+}
+
+.subcribe-text{   
+    height: 96px;
+    width: 383px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.15px;
+    color: #5B6B88;
+    margin-top: 10px;
+
+}
+
+.subcribe-button{
+    margin-top: 20px;
+    height: 50px;
+    width: 230px;
+    background-color: #0052CC;
+    border-radius: 8px;
+    
+}
